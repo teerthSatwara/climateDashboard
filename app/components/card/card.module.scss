@@ -1,0 +1,14 @@
+.card {
+    border-radius: 40px;
+    border: 2px solid #CCC;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 30px;
+    height: 100%;
+    width: 100%;
+}
+.cardtitle {
+  margin-bottom: 1em;
+}

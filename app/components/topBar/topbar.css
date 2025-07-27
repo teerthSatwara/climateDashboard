@@ -1,0 +1,33 @@
+.topBar {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo .navs {
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topList {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+.topListItem {
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+img {
+    height: 75px;
+}
